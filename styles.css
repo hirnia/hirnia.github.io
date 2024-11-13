@@ -1,0 +1,26 @@
+body {
+  background-color: #ff99cc; /* pink background */
+  color: #33ff99; /* neon green text */
+  font-family: 'Comic Sans MS', cursive, sans-serif; /* for that Y2K feel */
+  text-align: center;
+  margin: 0;
+}
+
+header {
+  background: linear-gradient(90deg, #ff99cc, #33ff99); /* pink-green gradient */
+  padding: 1em;
+  border-bottom: 2px dotted #33ff99;
+}
+
+h1 {
+  font-size: 3em;
+  text-shadow: 2px 2px #33ff99;
+}
+
+section {
+  margin: 2em;
+  padding: 1em;
+  border: 1px dashed #33ff99;
+  background-color: #ffe6f2; /* light pink section background */
+  box-shadow: 0 0 10px #33ff99;
+}
